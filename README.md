@@ -1,3 +1,6 @@
+
+[![Circle CI](https://circleci.com/gh/JasonBoyles/memcached/tree/master.png?style=badge)](https://circleci.com/gh/JasonBoyles/memcached/tree/master)
+
 Description
 ===========
 
