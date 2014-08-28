@@ -84,6 +84,7 @@ There are substantial changes still happening within the [OpenStack
 Heat](https://wiki.openstack.org/wiki/Heat) project. Template contribution
 guidelines will be drafted in the near future.
 
+
 License
 =======
 ```
